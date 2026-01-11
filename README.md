@@ -1,2 +1,33 @@
-# actuarial-exam-database
+# Actuarial Exam Database
 A database of actuarial exam questions, answers, and syllabi.
+- Society of Actuaries (SOA)
+- Casualty Actuarial Society (CAS)
+
+## Society of Actuaries
+
+### ASA
+Note that additional VEEs and the Associateship Professionalism Course are required for an ASA credential.
+- **P-1** Probability
+- **FM-2** Financial Mathematics
+- **PAF** Pre-Actuarial Foundations Module
+- **FAM** Findamentals of Actuarial Mathematics
+- **ALTAM** Advanced Long-Term Actuarial Mathematics
+- **ASTAM** Advanced Short-Term Actuarial Mathematics
+- **SRM** Statistics for Risk Modelling
+- **ASF** Actuarial Science Foundations Module
+- **PA** Predictive Analytics
+- **ATPA** Advanced Topics in Predictive Analytics
+- **FAP** Fundamental of Actuarial Practice
+
+## Casualty Actuarial Society
+
+### ACAS
+Note that additional VEEs, P-1, FM-2, and a course on professionalism 
+- **MAS-I** Modern Actuarial Statistics I
+- **MAS-II** Modern Actuarial Statistics II
+- **CAS DISC IA** Insurance Accounting
+- **CAS DISC DA** Data and Analytics
+- **CAS DISC RM** Risk Management
+- **5** Ratemaking and Reserving
+- **6** **-C** / **-I** / **-T** / **-US** Regulation and Financial Reporting
+- **PCPA** Predictive Analytics
