@@ -22,7 +22,7 @@ Note that additional VEEs and the Associateship Professionalism Course are requi
 ## Casualty Actuarial Society
 
 ### ACAS
-Note that additional VEEs, P-1, FM-2, and a course on professionalism 
+Note that additional VEEs, P-1, FM-2, and a course on professionalism are required for an ACAS credential.
 - **MAS-I** Modern Actuarial Statistics I
 - **MAS-II** Modern Actuarial Statistics II
 - **CAS DISC IA** Insurance Accounting
