@@ -3,30 +3,7 @@ A database of actuarial exam questions, answers, and syllabi.
 - Society of Actuaries (SOA)
 - Casualty Actuarial Society (CAS)
 
-## Quick Reference
-
 📚 **[Study Resources Guide](https://github.com/Actuarial-Notes/Actuarial-Exam-Database/blob/main/Study-Resources.md)** - Comprehensive guide to study manuals, calculators, free resources, and study strategies
-
-### Exam Format Quick Reference
-
-| Exam | Questions | Time | Format | Frequency |
-|------|-----------|------|--------|-----------|
-| **P** | 30 MC | 3 hrs | CBT (Prometric) | Year-round |
-| **FM** | 30 MC | 2.5 hrs | CBT (Prometric) | Year-round |
-| **FAM** | 34 MC | 3.5 hrs | CBT (Prometric) | 3x/year (Mar, Jul, Nov) |
-| **SRM** | 35 MC | 3.5 hrs | CBT (Prometric) | Year-round |
-| **ALTAM** | 6 WA | 3 hrs | CBT w/ Excel | 2x/year (Apr, Nov) |
-| **ASTAM** | 6 WA | 3 hrs | CBT w/ Excel | 2x/year (Apr, Nov) |
-| **PA** | 9-10 tasks | 3.5 hrs | Written Answer | 2x/year (Jun, Dec) |
-| **MAS-I** | Variable MC | 4 hrs | CBT (Pearson VUE) | 4x/year (2026+) |
-| **MAS-II** | Variable MC | 4 hrs | CBT (Pearson VUE) | 4x/year (2026+) |
-
-**Legend**: MC = Multiple Choice, WA = Written Answer, CBT = Computer-Based Testing
-
-**Recommended Calculators:**
-- **TI-30XS MultiView**: Best for Exam P and general calculations
-- **BA II Plus / Plus Professional**: Essential for FM (time value of money)
-- All calculators must have memory cleared before exam
 
 ## Society of Actuaries
 
