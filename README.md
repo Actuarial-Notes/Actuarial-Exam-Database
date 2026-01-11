@@ -7,7 +7,7 @@ A database of actuarial exam questions, answers, and syllabi.
 
 ### ASA
 Note that additional VEEs and the Associateship Professionalism Course are required for an ASA credential.
-- **P-1** Probability
+- **[P-1](https://github.com/Actuarial-Notes/Actuarial-Exam-Database/blob/main/Exams/P-1.md)** Probability
 - **FM-2** Financial Mathematics
 - **PAF** Pre-Actuarial Foundations Module
 - **FAM** Findamentals of Actuarial Mathematics
