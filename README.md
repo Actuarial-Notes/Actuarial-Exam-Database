@@ -5,28 +5,7 @@ A database of actuarial exam questions, answers, and syllabi.
 
 ## Quick Reference
 
-### Study Manual Providers
-
-Compare the major study manual providers to find the best fit for your learning style and budget:
-
-| Provider | Best For | Price Range | Key Features | Exams Covered |
-|----------|----------|-------------|--------------|---------------|
-| **[Coaching Actuaries](https://www.coachingactuaries.com/)** | Comprehensive preparation with adaptive practice | $$$ (Premium) | ADAPT platform with difficulty-rated problems, video lessons, huge question bank | P, FM, FAM, ALTAM, ASTAM, SRM, PA, MAS-I, MAS-II |
-| **[The Infinite Actuary (TIA)](https://www.theinfiniteactuary.com/)** | Video-based learners | $$ (~$200 with student discount) | Personalized study schedules, practice exams on par with actual exams, no physical manual | P, FM, FAM, ALTAM, ASTAM, SRM, MAS-I, MAS-II |
-| **[ASM (Actuarial Study Materials)](https://studymanuals.com/)** | Traditional manual + online practice | $$ (Moderate) | Physical study manuals, GOAL platform with 1200+ problems, Pass Guarantee | P, FM, FAM, ALTAM, ASTAM, SRM, EA exams |
-| **[ACTEX Learning](https://www.actexlearning.com/)** | Reading-focused students | $$ (Moderate) | Comprehensive physical manuals, online practice, Pass Guarantee, 9 full-length exams | Most SOA and CAS exams |
-
-**Budget-Friendly Tips:**
-- ASM and ACTEX offer the most affordable options if you prefer physical manuals
-- Both include online practice platforms (GOAL for ASM, similar for ACTEX)
-- TIA is free for video lessons only (no physical manual)
-- Most providers offer student discounts
-
-**Learning Style Guide:**
-- **Visual learners**: TIA or Coaching Actuaries (video-heavy)
-- **Reading learners**: ASM or ACTEX (detailed written explanations)
-- **Practice-focused**: Coaching Actuaries ADAPT (largest question bank)
-- **Budget-conscious**: ASM or ACTEX physical manuals
+📚 **[Study Resources Guide](https://github.com/Actuarial-Notes/Actuarial-Exam-Database/blob/main/Study-Resources.md)** - Comprehensive guide to study manuals, calculators, free resources, and study strategies
 
 ### Exam Format Quick Reference
 
