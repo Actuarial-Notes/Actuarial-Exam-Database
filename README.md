@@ -3,7 +3,7 @@ A database of actuarial exam questions, answers, and syllabi.
 - Society of Actuaries (SOA)
 - Casualty Actuarial Society (CAS)
 
-📚 **[Study Resources Guide](https://github.com/Actuarial-Notes/Actuarial-Exam-Database/blob/main/Study-Resources.md)** - Comprehensive guide to study manuals, calculators, free resources, and study strategies
+**[Study Resources Guide](https://github.com/Actuarial-Notes/Actuarial-Exam-Database/blob/main/Study-Resources.md)** - Comprehensive guide to study manuals, calculators, free resources, and study strategies
 
 ## Society of Actuaries
 
